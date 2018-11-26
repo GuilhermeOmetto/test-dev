@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Base criada para teste e primeira etapa de codificação. -->
+
+<catalogo>
+    <carro>
+        <veiculoId>01</veiculoId>
+        <marca>BMW</marca>
+        <modelo>X1</modelo>
+        <ano>2015</ano>
+    </carro>
+
+    <carro>
+        <veiculoId>02</veiculoId>
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <ano>2012</ano>
+    </carro>
+
+    <carro>
+        <veiculoId>03</veiculoId>
+        <marca>Fiat</marca>
+        <modelo>Cronos</modelo>
+        <ano>2017</ano>
+    </carro>
+
+    <carro>
+        <veiculoId>04</veiculoId>
+        <marca>BMW</marca>
+        <modelo>X1</modelo>
+        <ano>2015</ano>
+    </carro>
+
+    <carro>
+        <veiculoId>05</veiculoId>
+        <marca>BMW</marca>
+        <modelo>X1</modelo>
+        <ano>2015</ano>
+    </carro>
+</catalogo>
